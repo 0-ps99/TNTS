@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0-ps99/TNT-/refs/heads/main/SPECTATE"))()
